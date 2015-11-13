@@ -1,0 +1,35 @@
+-----------npm install karma-jasmine --save-dev
+npm install -g karma
+npm install -g jasmin
+npm install -g karma-cli
+npm install karma-chrome-launcher --save-dev
+npm install karma-phantomjs-launcher --save-dev
+npm install -g phantomjs
+karma init karma.conf.js
+karma start karma.conf.js
+
+----report generator
+karma-junit-reporter
+karma-coverage
+karma start karma.conf.js --reporters progress,junit,coverage
+karma start karma.conf.js --reporters progress,junit,coverage
+
+
+
+-describe -> parte a probar,elemento , complemento a probar.
+-it -> define una especificacion, un movimiento
+-beforeEach -> se ejecuta antes de ejecutar cada it
+-afterEach  -> despues de cada it
+
+----------------node jasmin
+npm install jasmine-node -g
+jasmine init
+jasmine-node spec --"spec" directorio donde estan las espectativas
+jasmine-node --autotest .---- arranca automaticamente los test
+
+
+-----------------
+http://jasmine.github.io/2.3/node.html#section-Configuration
+http://www.adictosaltrabajo.com/tutoriales/angularjs-test-unitarios/
+https://docs.angularjs.org/guide/unit-testing
+http://www.adictosaltrabajo.com/tutoriales/jasmine-hello-world/
