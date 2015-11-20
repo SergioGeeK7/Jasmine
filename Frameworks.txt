@@ -1,0 +1,5 @@
+nightwatchjs -> end to end easy way
+Protractor   -> end to end
+Jasmine      -> unit test
+---------------------------------------------------------------------------------------------------
+http://mherman.org/blog/2015/04/09/testing-angularjs-with-protractor-and-karma-part-1/#.Vk-OJnYveUk
