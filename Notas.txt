@@ -1,3 +1,14 @@
+testDatabuilder
+JUnit
+LinkedBase
+CUcumber
+Casos Borde ... cuando tenga cero,cuando tenga normal, cuanto tenga mayor a la cuenta _> Mutation testing
+// BEFORE CREATE DATA SQL PRUEBA EN METODO CreatDataPrueba()
+// Rollback SQL
+// AFTER DELETE DATA EliminarDataPrueba()
+
+
+
 -----------npm install karma-jasmine --save-dev
 npm install -g karma
 npm install -g jasmin
