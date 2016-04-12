@@ -8,10 +8,9 @@ Casos Borde ... cuando tenga cero,cuando tenga normal, cuanto tenga mayor a la c
 // AFTER DELETE DATA EliminarDataPrueba()
 
 
-
+npm install -g jasmin
 -----------npm install karma-jasmine --save-dev
 npm install -g karma
-npm install -g jasmin
 npm install -g karma-cli
 npm install karma-chrome-launcher --save-dev
 npm install karma-phantomjs-launcher --save-dev
